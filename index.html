@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Pallet & Ink Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Pallet & Ink</h1>
+        <p>Showcasing ink art on paper and skin</p>
+    </header>
+
+    <main>
+        <!-- Filter Buttons -->
+        <div class="filters">
+            <button id="filter-all">All Art</button>
+            <button id="filter-paper">Paper Art</button>
+            <button id="filter-skin">Skin Art</button>
+        </div>
+
+        <!-- Art Gallery -->
+        <div id="gallery" class="gallery"></div>
+        <!-- javascript will fill this spot -->
+
+        <!-- Artist Submission Form -->
+        <section class="submit-form">
+            <h2>Submit Your Art</h2>
+            <form id="artSubmissionForm">
+                <label>
+                    Your Name:
+                    <input type="text" name="artist" required>
+                </label>
+
+                <label>
+                    Art Title:
+                    <input type="text" name="title" required>
+                </label>
+
+                <label>
+                    Medium:
+                    <select name="medium" required>
+                        <option value="">Select...</option>
+                        <option value="paper">Paper</option>
+                        <option value="skin">Skin (Tattoo)</option>
+                    </select>
+                </label>
+
+                <label>
+                    Image URL:
+                    <input type="text" name="image" placeholder="images/your-art.jpg" required>
+                </label>
+
+                <button type="submit">Submit Artwork</button>
+            </form>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

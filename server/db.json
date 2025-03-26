@@ -1,0 +1,74 @@
+{
+    "artworks": [
+        {
+            "id": 1,
+            "title": "Lunar Waves",
+            "artist": "Mia",
+            "medium": "paper",
+            "image": "images/artwork1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Phoenix Rising",
+            "artist": "Leo",
+            "medium": "skin",
+            "image": "images/artwork2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Forest Whispers",
+            "artist": "Elena",
+            "medium": "paper",
+            "image": "images/artwork3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Serpent's Dance",
+            "artist": "Raj",
+            "medium": "skin",
+            "image": "images/artwork4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Ocean's Edge",
+            "artist": "Clara",
+            "medium": "paper",
+            "image": "images/artwork5.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Wolf Spirit",
+            "artist": "Tara",
+            "medium": "skin",
+            "image": "images/artwork6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Silhouette Dreams",
+            "artist": "Yuki",
+            "medium": "paper",
+            "image": "images/artwork7.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Sacred Geometry",
+            "artist": "Diego",
+            "medium": "skin",
+            "image": "images/artwork8.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Storm Caller",
+            "artist": "Nia",
+            "medium": "paper",
+            "image": "images/artwork9.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Moonlit Deer",
+            "artist": "Kai",
+            "medium": "skin",
+            "image": "images/artwork10.jpg"
+        }
+    ]
+}
