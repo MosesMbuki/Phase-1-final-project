@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const form = document.getElementById('artSubmissionForm');
 
     // Load and display artworks
-    fetch("http://localhost:8080/artworks")
+  fetch("https://phase-1-final-project-3.onrender.com")
         .then(response => response.json())
         .then(data => {
             // Handle both array and {artworks: [...]} responses
