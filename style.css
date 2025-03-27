@@ -51,3 +51,12 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
+/*  */
+.art-card img {
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.art-card img:hover {
+    transform: scale(1.1);
+}
