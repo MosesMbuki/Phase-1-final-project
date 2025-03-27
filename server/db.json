@@ -2,7 +2,7 @@
     "artworks": [
         {
             "id": 1,
-            "title": "Lunar Waves",
+            "title": "Divine Beast",
             "artist": "Mia",
             "medium": "paper",
             "image": "https://i.postimg.cc/7hhWfkkz/artwork1.jpg"
@@ -16,7 +16,7 @@
         },
         {
             "id": 3,
-            "title": "Forest Whispers",
+            "title": "Lone Fortress",
             "artist": "Elena",
             "medium": "paper",
             "image": "https://i.postimg.cc/8sVXwrvR/artwork3.jpg"
@@ -24,20 +24,20 @@
         {
             "id": 4,
             "title": "Serpent's Dance",
-            "artist": "Raj",
+            "artist": "Clara",
             "medium": "skin",
             "image": "https://i.postimg.cc/FsRwW0wZ/annie-spratt-a-JOibh-Kp1p-A-unsplash-2.jpg"
         },
         {
             "id": 5,
-            "title": "Ocean's Edge",
-            "artist": "Clara",
+            "title": "",
+            "artist": "Raj",
             "medium": "paper",
             "image": "https://i.postimg.cc/TKSCbyGW/artwork5.jpg"
         },
         {
             "id": 6,
-            "title": "Wolf Spirit",
+            "title": "Fox Spirit",
             "artist": "Tara",
             "medium": "skin",
             "image": "https://i.postimg.cc/jqvWTr2X/mohammad-faruque-Ag-YOuy8k-A7-M-unsplash.jpg"
@@ -65,7 +65,7 @@
         },
         {
             "id": 10,
-            "title": "Moonlit Deer",
+            "title": "Fallen Angel",
             "artist": "Kai",
             "medium": "skin",
             "image": "https://i.postimg.cc/JnxhRbrn/darren-nunis-fto-D84-RRd-M-unsplash.jpg"
